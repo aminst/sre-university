@@ -9,7 +9,7 @@
 - [ ] (Book) The Phoenix Project - https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592
 
 # Operating Systems
-- [ ] (https://github.com/aminst/sre-university.git) (Course) Introduction to Operating Systems - https://br.udacity.com/course/introduction-to-operating-systems--ud923/
+- [ ] (Course) Introduction to Operating Systems - https://br.udacity.com/course/introduction-to-operating-systems--ud923/
 
 - [ ] (Course) Advanced Operating Systems - https://br.udacity.com/course/advanced-operating-systems--ud189/
 

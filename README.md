@@ -6,6 +6,7 @@
 - [x] (Course) Intro to DevOps - https://br.udacity.com/course/intro-to-devops--ud611/
 - [ ] (Course) Google Cloud Platform for Systems Operations - https://www.coursera.org/specializations/gcp-sysops
 - [ ] (Course) Measuring and Managing Reliability - https://www.coursera.org/learn/site-reliability-engineering-slos
+- [ ] (Book) The Phoenix Project - https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592
 
 # Operating Systems
 - [ ] (https://github.com/aminst/sre-university.git) (Course) Introduction to Operating Systems - https://br.udacity.com/course/introduction-to-operating-systems--ud923/
@@ -47,6 +48,7 @@
 
 # Continuous Integration | Continuous Delivery
 - [ ] (Course) Continuous Deliver Better Software - https://www.udemy.com/learn-devops-continuously-deliver-better-software
+- [ ] (Book) Continuous Delivery - https://www.oreilly.com/library/view/continuous-delivery-reliable/9780321670250
 
 # Containers
 - [ ] (Course) Docker for Devops - https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers

@@ -14,9 +14,9 @@
 - [ ] (Course) Advanced Operating Systems - https://br.udacity.com/course/advanced-operating-systems--ud189/
 
 # Automation 
-- [ ] (Tutorial) Ansible - https://www.digitalocean.com/community/tutorials/configuration-management-101-writing-ansible-playbooks
-- [ ] (Tutorial) Ansible - https://www.guru99.com/ansible-tutorial.html
-- [ ] (Tutorial) Ansible - https://www.tutorialspoint.com/ansible/index.htm
+- [x] (Tutorial) Ansible - https://www.digitalocean.com/community/tutorials/configuration-management-101-writing-ansible-playbooks
+- [x] (Tutorial) Ansible - https://www.guru99.com/ansible-tutorial.html
+- [x] (Tutorial) Ansible - https://www.tutorialspoint.com/ansible/index.htm
 - [ ] (Course) Terraform - https://www.udemy.com/learn-devops-infrastructure-automation-with-terraform/learn
 
 # Distributed Systems

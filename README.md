@@ -50,7 +50,7 @@
 
 # Continuous Integration | Continuous Delivery
 - [ ] (Course) Continuous Deliver Better Software - https://www.udemy.com/learn-devops-continuously-deliver-better-software
-- [ ] (Book) Continuous Delivery - https://www.oreilly.com/library/view/continuous-delivery-reliable/9780321670250
+- [x] (Book) Continuous Delivery - https://www.oreilly.com/library/view/continuous-delivery-reliable/9780321670250
 
 # Containers
 - [ ] (Course) Docker for Devops - https://www.udemy.com/docker-tutorial-for-devops-run-docker-containers

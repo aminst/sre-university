@@ -5,7 +5,7 @@
 - [ ] (Book) Building Secure and Reliable Systems - https://landing.google.com/sre/static/pdf/SRS.pdf
 - [x] (Course) Intro to DevOps - https://br.udacity.com/course/intro-to-devops--ud611/
 - [ ] (Course) Google Cloud Platform for Systems Operations - https://www.coursera.org/specializations/gcp-sysops
-- [ ] (Course) Measuring and Managing Reliability - https://www.coursera.org/learn/site-reliability-engineering-slos
+- [x] (Course) Measuring and Managing Reliability - https://www.coursera.org/learn/site-reliability-engineering-slos
 - [ ] (Book) The Phoenix Project - https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592
 - [x] (Playlist) class SRE implements DevOps - https://www.youtube.com/playlist?list=PLIivdWyY5sqJrKl7D2u-gmis8h9K66qoj
 
